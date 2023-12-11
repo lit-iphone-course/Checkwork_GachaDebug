@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Checkwork_GachaDebug
-//
-//  Created by 伊藤明孝 on 2023/11/20.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

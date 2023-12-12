@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Answer_GachaDebug
-//
-//  Created by 伊藤明孝 on 2023/11/20.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -16,4 +9,3 @@ class ViewController: UIViewController {
 
 
 }
-
